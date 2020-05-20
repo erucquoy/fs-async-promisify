@@ -1,0 +1,27 @@
+{
+  "name": "fs-async-promisify",
+  "version": "1.0.0",
+  "description": "Node Async FS - File System promsified - promisify - promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erucquoy/fs-async-promisify.git"
+  },
+  "keywords": [
+    "fs",
+    "async",
+    "promises",
+    "fs-async",
+    "fs-promises",
+    "fs-extra"
+  ],
+  "author": "Edouard Rucquoy <erucquoy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erucquoy/fs-async-promisify/issues"
+  },
+  "homepage": "https://github.com/erucquoy/fs-async-promisify#readme"
+}
