@@ -7,7 +7,7 @@
 - [Contribute](#contribute)
 - [Credits](#credits)
 
-> By default it is auto-updated with each version of NodeJS !
+> By default this npm module is auto-updated with each version of NodeJS !
 
 ## Install
 
