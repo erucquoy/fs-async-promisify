@@ -1,11 +1,11 @@
 # fs-async-promisify
 ### Node Async FS - File System promsified - promisify - promises
 
-- [Install] (#install)
-- [How to use] (#how-to-use)
-- [Tests] (#tests)
-- [Contribute] (#contribute)
-- [Credits] (#credits)
+- [Install](#install)
+- [How to use](#how-to-use)
+- [Tests](#tests)
+- [Contribute](#contribute)
+- [Credits](#credits)
 
 > By default it is auto-updated with each version of NodeJS !
 
